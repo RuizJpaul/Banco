@@ -1,6 +1,5 @@
 # Banco
 ## Datos
-# Datos
 | Movimiento | Tipo | Monto | Descripcion |
 | ------- | ------- | ------- | ------- |
 | Cena | Ingreso | 400 | Ninguna |
